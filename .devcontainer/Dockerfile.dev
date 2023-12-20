@@ -1,4 +1,4 @@
-FROM rust:1.69-bullseye
+FROM rust:1.74-bookworm
 
 ARG REMOTE_USER
 ARG REMOTE_WORKSPACES

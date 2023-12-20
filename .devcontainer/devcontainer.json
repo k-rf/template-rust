@@ -1,8 +1,8 @@
 {
-  "name": "rust-playground-root",
-  "remoteUser": "rust-playground-root",
-  "dockerComposeFile": "../docker-compose.dev.yaml",
-  "service": "root",
+  "name": "template-rust",
+  "remoteUser": "template-rust",
+  "dockerComposeFile": "./compose.dev.yaml",
+  "service": "app",
   "workspaceFolder": "/workspaces",
   "overrideCommand": true,
   "shutdownAction": "none",
